@@ -30,7 +30,7 @@ This is a simple Netflix Clone created using HTML, CSS, and JavaScript. The proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+https://github.com/E-beep-web/netflix-clone.git
    ```
 2. Open `index.html` in your browser to view the project.
 
