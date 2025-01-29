@@ -25,7 +25,6 @@ This is a simple Netflix Clone created using HTML, CSS, and JavaScript. The proj
 ---
 
 
-
 ## How to Run
 
 1. Clone the repository:
